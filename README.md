@@ -4,6 +4,12 @@ A responsive Arabic (RTL) landing website for a dental and implant center in Riy
 
 **Live demo:** https://salmantawfeeq.github.io/AL-JANAH-AL-ABYAD-DENTAL-CENTER/
 
+## Screenshots
+
+![Home page](docs/screenshots/home-page.jpg)
+
+![Booking form](docs/screenshots/booking-form.jpg)
+
 ## Highlights
 
 - Arabic-first, right-to-left layout that adapts to mobile, tablet and desktop
